@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAC;EACE,UAAU,EAAE,UAAU;EACtB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CAEb;;AAED,AAAA,IAAI,CAAC;EACD,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,SAAS;EAC3B,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,oBAAoB;EACjC,QAAQ,EAAE,MAAM;CACnB",
+    "sources": [
+        "../repozytorium/main.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
